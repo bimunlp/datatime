@@ -1037,6 +1037,12 @@ enableEmoji = true
     # 是否使用 object-fit-images 来兼容旧式浏览器
     objectFit = false
 
+  [params.reward]                                  # 文章打赏
+    enable = true
+    wechat = "/images/wechat.jpg"           # 微信二维码
+    alipay = "/images/alipay.jpg"           # 支付宝二维码
+
+
 # Markup related configuration in Hugo
 # Hugo 解析文档的配置
 [markup]
