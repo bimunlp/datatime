@@ -3,5 +3,6 @@
         <title>Podcast - Category - DataTime</title>
         <link>https://example.com/categories/podcast/</link>
         <description>Podcast - Category - DataTime</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://example.com/categories/podcast/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>liuhanmeng@westlake.edu.cn (Bimu)</managingEditor>
+            <webMaster>liuhanmeng@westlake.edu.cn (Bimu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://example.com/categories/podcast/" rel="self" type="application/rss+xml" /></channel>
 </rss>
