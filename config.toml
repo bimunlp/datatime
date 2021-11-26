@@ -224,8 +224,8 @@ enableEmoji = true
         Email = "liuhanmeng@westlake.edu.com"
         RSS = true
         [languages.en.params.social.Mastodon]
-          id = "@DataTime"
-          prefix = "https://bimu.cc/"
+          id = "@datatime"
+          prefix = "https://mastodon.social/"
 
   [languages.zh-cn]
     weight = 2
