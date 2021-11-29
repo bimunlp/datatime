@@ -1039,8 +1039,8 @@ enableEmoji = true
 
   [params.reward]                                  # 文章打赏
     enable = true
-    wechat = "/images/wechat.jpg"           # 微信二维码
-    alipay = "/images/alipay.jpg"           # 支付宝二维码
+    wechat = "https://qiniu.csit.fun/alipay.jpg"           # 微信二维码
+    alipay = "https://qiniu.csit.fun/wechat.jpg"           # 支付宝二维码
 
 
 # Markup related configuration in Hugo
