@@ -2,103 +2,103 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/fr/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/about/"
+                        href="https://dtalg.com/about/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/about/"
+                        href="https://dtalg.com/zh-cn/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/about/"
+                    href="https://dtalg.com/fr/about/"
                     /></url><url>
-            <loc>https://example.com/fr/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/categories/"
+                        href="https://dtalg.com/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/categories/"
+                        href="https://dtalg.com/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/categories/"
+                    href="https://dtalg.com/fr/categories/"
                     /></url><url>
-            <loc>https://example.com/fr/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/tags/content/"
+                        href="https://dtalg.com/zh-cn/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/tags/content/"
+                    href="https://dtalg.com/fr/tags/content/"
                     /></url><url>
-            <loc>https://example.com/fr/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/"
+                        href="https://dtalg.com/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/"
+                        href="https://dtalg.com/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/"
+                    href="https://dtalg.com/fr/"
                     /></url><url>
-            <loc>https://example.com/fr/categories/photos/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/categories/geek/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/categories/photos/"
+                        href="https://dtalg.com/categories/geek/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/categories/photos/"
+                        href="https://dtalg.com/zh-cn/categories/geek/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/categories/photos/"
+                    href="https://dtalg.com/fr/categories/geek/"
                     /></url><url>
-            <loc>https://example.com/fr/categories/podcast/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/categories/digital/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/categories/podcast/"
+                        href="https://dtalg.com/categories/digital/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/categories/podcast/"
+                        href="https://dtalg.com/zh-cn/categories/digital/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/categories/podcast/"
+                    href="https://dtalg.com/fr/categories/digital/"
                     /></url><url>
-            <loc>https://example.com/fr/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/tags/"
+                        href="https://dtalg.com/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/tags/"
+                        href="https://dtalg.com/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/tags/"
+                    href="https://dtalg.com/fr/tags/"
                     /></url><url>
-            <loc>https://example.com/fr/categories/videos/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/fr/categories/uploader/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://example.com/categories/videos/"
+                        href="https://dtalg.com/categories/uploader/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/categories/videos/"
+                        href="https://dtalg.com/zh-cn/categories/uploader/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="fr"
-                    href="https://example.com/fr/categories/videos/"
+                    href="https://dtalg.com/fr/categories/uploader/"
                     /></url></urlset>

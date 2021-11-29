@@ -1,5 +1,5 @@
 ignoreErrors = ["error-missing-instagram-accesstoken"]
-baseURL = "https://example.com"
+baseURL = "https://dtalg.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -69,34 +69,34 @@ enableEmoji = true
         title = ""
         weight = 6
       [[languages.en.menu.main]]
-        identifier = "videos"
+        identifier = "uploader"
         pre = "<i class='fab fa-youtube'></i>"
         post = ""
-        name = "Videos"
-        url = "/categories/videos/"
-        title = ""
-        weight = 1
-      [[languages.en.menu.main]]
-        identifier = "podcast"
-        pre = "<i class='fas fa-podcast'></i>"
-        post = ""
-        name = "Podcast"
-        url = "/categories/podcast/"
+        name = "Uploader"
+        url = "/categories/uploader/"
         title = ""
         weight = 2
       [[languages.en.menu.main]]
-        identifier = "photos"
+        identifier = "geek"
+        pre = "<i class='fas fa-laptop-code'></i>"
+        post = ""
+        name = "Geek"
+        url = "/categories/geek/"
+        title = ""
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "digital"
         pre = "<i class='fas fa-camera-retro'></i>"
         post = ""
-        name = "Photos"
-        url = "/categories/photos/"
+        name = "Digital"
+        url = "/categories/digital/"
         title = ""
         weight = 3
     [languages.en.params]
       # site description
       description = "DataTime"
       # site keywords
-      keywords = ["Computer science", "Deep learning"]
+      keywords = ["Computer science", "Deep learning", "filming"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -270,33 +270,33 @@ enableEmoji = true
         title = ""
         weight = 6
       [[languages.zh-cn.menu.main]]
-        identifier = "videos"
+        identifier = "uploader"
         pre = "<i class='fab fa-youtube'></i>"
-        name = "视频"
-        url = "/categories/videos/"
-        title = ""
-        weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "podcast"
-        pre = "<i class='fas fa-podcast'></i>"
-        post = ""
-        name = "播客"
-        url = "/categories/podcast"
+        name = "UP主"
+        url = "/categories/uploader/"
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
-        identifier = "photos"
+        identifier = "geek"
+        pre = "<i class='fas fa-laptop-code'></i>"
+        post = ""
+        name = "极客"
+        url = "/categories/geek"
+        title = ""
+        weight = 1
+      [[languages.zh-cn.menu.main]]
+        identifier = "digital"
         pre = "<i class='fas fa-camera-retro'></i>"
         post = ""
-        name = "摄影"
-        url = "/categories/photos"
+        name = "素材"
+        url = "/categories/digital"
         title = ""
         weight = 3
     [languages.zh-cn.params]
       # 网站描述
       description = "DataTime"
       # 网站关键词
-      keywords = ["Big data", "Deep learning", "computer science"]
+      keywords = ["Big data", "Deep learning", "computer science", "filming"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
@@ -466,26 +466,26 @@ enableEmoji = true
         title = ""
         weight = 6
       [[languages.fr.menu.main]]
-        identifier = "videos"
+        identifier = "uploader"
         pre = "<i class='fab fa-youtube'></i>"
         post = ""
-        name = "vidéos"
-        url = "/categories/videos/"
-        title = ""
-        weight = 1
-      [[languages.fr.menu.main]]
-        identifier = "podcast"
-        pre = "<i class='fas fa-podcast'></i>"
-        name = "Podcast"
-        url = "/categories/podcast/"
+        name = "Téléchargeur"
+        url = "/categories/uploader/"
         title = ""
         weight = 2
       [[languages.fr.menu.main]]
-        identifier = "photos"
+        identifier = "geek"
+        pre = "<i class='fas fa-laptop-code'></i>"
+        name = "Geek"
+        url = "/categories/geek/"
+        title = ""
+        weight = 1
+      [[languages.fr.menu.main]]
+        identifier = "digital"
         pre = "<i class='fas fa-camera-retro'></i>"
         post = ""
-        name = "Photos"
-        url = "/categories/photos"
+        name = "Numérique"
+        url = "/categories/digital"
         title = ""
         weight = 3
     [languages.fr.params]

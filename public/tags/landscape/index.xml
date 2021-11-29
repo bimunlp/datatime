@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>landscape - Tag - DataTime</title>
-        <link>https://example.com/tags/landscape/</link>
+        <link>https://dtalg.com/tags/landscape/</link>
         <description>landscape - Tag - DataTime</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>liuhanmeng@westlake.edu.cn (Bimu)</managingEditor>
-            <webMaster>liuhanmeng@westlake.edu.cn (Bimu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 26 Nov 2021 15:18:03 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/landscape/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>liuhanmeng@westlake.edu.cn (Bimu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 26 Nov 2021 15:18:03 &#43;0800</lastBuildDate><atom:link href="https://dtalg.com/tags/landscape/" rel="self" type="application/rss+xml" /><item>
     <title>Landscape of Lijiang Yunnan</title>
-    <link>https://example.com/photo-1/</link>
+    <link>https://dtalg.com/photo-1/</link>
     <pubDate>Fri, 26 Nov 2021 15:18:03 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://example.com/photo-1/</guid>
+    <guid>https://dtalg.com/photo-1/</guid>
     <description><![CDATA[Lijiang Lashihai Wetland Park wetland" Lijiang Lashihai Wetland Park wetland  Lijiang Lashihai Wetland Park lake" Lijiang Lashihai Wetland Park lake  Lijiang Lashihai Wetland Park wind and trees" Lijiang Lashihai Wetland Park wind and trees  Lijiang Jade Dragon Snow Mountain distant view" Lijiang Jade Dragon Snow Mountain distant view  Lijiang Jade Dragon Snow Mountain houselet" Lijiang Jade Dragon Snow Mountain houselet  Lijiang Jade Dragon Snow Mountain herd"]]></description>
 </item></channel>
 </rss>
