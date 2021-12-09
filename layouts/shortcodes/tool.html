@@ -1,0 +1,14 @@
+{{ if .IsNamedParams }}
+{{ $defaultImg := "https://sdn.geekzu.org/avatar/d41d8cd98f00b204e9800998ecf8427e?d=retro" }}
+	<a target="_blank" href={{ .Get "url" }} title={{ .Get "name" }}---{{ .Get "word" }} class="tool url">
+	  <div class="tool block whole {{ .Get "primary-color" | default "default"}} {{ .Get "border-animation" | default "shadow"}}">
+		<div class="tool block left">
+		  <img class="tool logo {{ .Get "img-animation" | default "rotate"}}" src={{ .Get "logo" }} onerror="this.src='{{ $defaultImg }}'" />
+		</div>
+		<div class="tool block right">
+		  <div class="tool name">{{ .Get "name" }}</div>
+		  <div class="tool info">"{{ .Get "word" }}"</div>
+		</div>
+	  </div>
+	</a>
+{{ end }}
