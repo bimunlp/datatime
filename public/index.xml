@@ -4,9 +4,17 @@
         <link>https://dtalg.com/</link>
         <description>DataTime</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>liuhanmeng@westlake.edu.cn (Bimu)</managingEditor>
-            <webMaster>liuhanmeng@westlake.edu.cn (Bimu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 09 Dec 2021 12:10:01 &#43;0800</lastBuildDate>
+            <webMaster>liuhanmeng@westlake.edu.cn (Bimu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 09 Dec 2021 23:46:09 &#43;0800</lastBuildDate>
             <atom:link href="https://dtalg.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Article 1</title>
+    <link>https://dtalg.com/article-1/</link>
+    <pubDate>Thu, 09 Dec 2021 23:46:09 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://dtalg.com/article-1/</guid>
+    <description><![CDATA[A A/B testing A statistical way of comparing two (or more) techniques, typically an incumbent against a new rival. A/B testing aims to determine not only which technique performs better but also to understand whether the difference is statistically significant. A/B testing usually considers only two techniques using one measurement, but it can be applied to any finite number of techniques and measures.
+accuracy The fraction of predictions that a classification model got right.]]></description>
+</item><item>
     <title>Did auto correction saved Apple? if it is not for this technology , there won&#39;t be the first gen iPhone</title>
     <link>https://dtalg.com/video-2/</link>
     <pubDate>Thu, 09 Dec 2021 12:10:01 &#43;0800</pubDate>
@@ -26,6 +34,6 @@
     <pubDate>Fri, 26 Nov 2021 15:18:03 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://dtalg.com/photo-1/</guid>
-    <description><![CDATA[Lijiang Lashihai Wetland Park wetland" Lijiang Lashihai Wetland Park wetland  Lijiang Lashihai Wetland Park lake" Lijiang Lashihai Wetland Park lake  Lijiang Lashihai Wetland Park wind and trees" Lijiang Lashihai Wetland Park wind and trees  Lijiang Jade Dragon Snow Mountain distant view" Lijiang Jade Dragon Snow Mountain distant view  Lijiang Jade Dragon Snow Mountain houselet" Lijiang Jade Dragon Snow Mountain houselet  Lijiang Jade Dragon Snow Mountain herd"]]></description>
+    <description><![CDATA[Lashihai Wetland Natural Park, Lijiang, Yunnan Wetland" Lashihai Wetland Natural Park, Lijiang, Yunnan Wetland  Lashihai Wetland Natural Park, Lijiang, Yunnan Lake" Lashihai Wetland Natural Park, Lijiang, Yunnan Lake  Lashihai Wetland Natural Park, Lijiang, Yunnan Trees and Wind" Lashihai Wetland Natural Park, Lijiang, Yunnan Trees and Wind  Jade Dragon Snow Mountain, Lijiang, Yunnan Snow mountain" Jade Dragon Snow Mountain, Lijiang, Yunnan Snow mountain  Yuhu Villege, Lijiang, Yunnan Old Woman"]]></description>
 </item></channel>
 </rss>

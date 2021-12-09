@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>machine learning - Tag - DataTime</title>
+        <link>https://dtalg.com/tags/machine-learning/</link>
+        <description>machine learning - Tag - DataTime</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>liuhanmeng@westlake.edu.cn (Bimu)</managingEditor>
+            <webMaster>liuhanmeng@westlake.edu.cn (Bimu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 09 Dec 2021 23:46:09 &#43;0800</lastBuildDate><atom:link href="https://dtalg.com/tags/machine-learning/" rel="self" type="application/rss+xml" /><item>
+    <title>Article 1</title>
+    <link>https://dtalg.com/article-1/</link>
+    <pubDate>Thu, 09 Dec 2021 23:46:09 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://dtalg.com/article-1/</guid>
+    <description><![CDATA[A A/B testing A statistical way of comparing two (or more) techniques, typically an incumbent against a new rival. A/B testing aims to determine not only which technique performs better but also to understand whether the difference is statistically significant. A/B testing usually considers only two techniques using one measurement, but it can be applied to any finite number of techniques and measures.
+accuracy The fraction of predictions that a classification model got right.]]></description>
+</item></channel>
+</rss>

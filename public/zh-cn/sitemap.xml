@@ -2,16 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://dtalg.com/zh-cn/tags/auto-correction/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://dtalg.com/tags/auto-correction/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://dtalg.com/zh-cn/tags/auto-correction/"
-                    /></url><url>
-            <loc>https://dtalg.com/zh-cn/categories/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>https://dtalg.com/zh-cn/categories/</loc><lastmod>2021-12-09T23:36:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://dtalg.com/categories/"
@@ -24,7 +15,7 @@
                     hreflang="zh-cn"
                     href="https://dtalg.com/zh-cn/categories/"
                     /></url><url>
-            <loc>https://dtalg.com/zh-cn/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>https://dtalg.com/zh-cn/</loc><lastmod>2021-12-09T23:36:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://dtalg.com/"
@@ -36,6 +27,68 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://dtalg.com/zh-cn/"
+                    /></url><url>
+            <loc>https://dtalg.com/zh-cn/tags/machine-learning/</loc><lastmod>2021-12-09T23:36:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://dtalg.com/tags/machine-learning/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://dtalg.com/zh-cn/tags/machine-learning/"
+                    /></url><url>
+            <loc>https://dtalg.com/zh-cn/posts/</loc><lastmod>2021-12-09T23:36:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://dtalg.com/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://dtalg.com/zh-cn/posts/"
+                    /></url><url>
+            <loc>https://dtalg.com/zh-cn/tags/</loc><lastmod>2021-12-09T23:36:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://dtalg.com/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://dtalg.com/fr/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://dtalg.com/zh-cn/tags/"
+                    /></url><url>
+            <loc>https://dtalg.com/zh-cn/article-1/</loc><lastmod>2021-12-09T23:36:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://dtalg.com/article-1/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://dtalg.com/zh-cn/article-1/"
+                    /></url><url>
+            <loc>https://dtalg.com/zh-cn/categories/geek/</loc><lastmod>2021-12-09T23:36:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://dtalg.com/categories/geek/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://dtalg.com/fr/categories/geek/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://dtalg.com/zh-cn/categories/geek/"
+                    /></url><url>
+            <loc>https://dtalg.com/zh-cn/tags/auto-correction/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://dtalg.com/tags/auto-correction/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://dtalg.com/zh-cn/tags/auto-correction/"
                     /></url><url>
             <loc>https://dtalg.com/zh-cn/video-1/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
@@ -54,28 +107,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://dtalg.com/zh-cn/tags/logo/"
-                    /></url><url>
-            <loc>https://dtalg.com/zh-cn/posts/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://dtalg.com/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://dtalg.com/zh-cn/posts/"
-                    /></url><url>
-            <loc>https://dtalg.com/zh-cn/tags/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://dtalg.com/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://dtalg.com/fr/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://dtalg.com/zh-cn/tags/"
                     /></url><url>
             <loc>https://dtalg.com/zh-cn/categories/videos/</loc><lastmod>2021-11-26T15:43:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
@@ -122,19 +153,6 @@
                     hreflang="zh-cn"
                     href="https://dtalg.com/zh-cn/photo-1/"
                     /></url><url>
-            <loc>https://dtalg.com/zh-cn/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://dtalg.com/about/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://dtalg.com/fr/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://dtalg.com/zh-cn/about/"
-                    /></url><url>
             <loc>https://dtalg.com/zh-cn/categories/uploader/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -158,18 +176,14 @@
                     href="https://dtalg.com/zh-cn/tags/content/"
                     /></url><url>
             <loc>https://dtalg.com/zh-cn/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://dtalg.com/zh-cn/categories/geek/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://dtalg.com/zh-cn/tool/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://dtalg.com/categories/geek/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://dtalg.com/fr/categories/geek/"
+                        href="https://dtalg.com/tool/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://dtalg.com/zh-cn/categories/geek/"
+                    href="https://dtalg.com/zh-cn/tool/"
                     /></url><url>
             <loc>https://dtalg.com/zh-cn/categories/digital/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
