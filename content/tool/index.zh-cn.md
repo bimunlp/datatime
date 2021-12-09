@@ -6,6 +6,9 @@ hiddenFromHomePage: true
 
 ---
 
+{{< admonition type=tip title="视频制作" open=true >}}
+视频制作工具
+{{< /admonition >}}
 {{< tool
 name="剪映字幕导出工具" 
 url="JianyingPro.html" 
@@ -13,6 +16,9 @@ logo="https://www.waerfa.com/wp-content/uploads/2020/12/jianying-logo.png"
 word="白嫖剪映的语音转文字服务"
 img-animation="rotate">}}
 
+{{< admonition type=tip title="游戏" open=true >}}
+在线小游戏
+{{< /admonition >}}
 {{< tool
 name="围棋" 
 url="gobang.html" 

@@ -6,6 +6,9 @@ hiddenFromHomePage: true
 
 ---
 
+{{< admonition type=tip title="Filmmaking" open=true >}}
+Film making tools
+{{< /admonition >}}
 {{< tool
 name="Jianying Subtitle Tool" 
 url="JianyingPro.html" 
@@ -13,6 +16,9 @@ logo="https://www.waerfa.com/wp-content/uploads/2020/12/jianying-logo.png"
 word="Get the ASR tool for free"
 img-animation="rotate">}}
 
+{{< admonition type=tip title="Games" open=true >}}
+Online games
+{{< /admonition >}}
 {{< tool
 name="Go" 
 url="gobang.html" 
