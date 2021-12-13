@@ -1,4 +1,4 @@
-# Article 1
+# Machine learning glossary
 
 
 ## A
